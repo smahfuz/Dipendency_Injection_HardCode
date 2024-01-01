@@ -1,0 +1,1 @@
+# Dipendency_Injection_HardCode
